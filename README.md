@@ -1,9 +1,10 @@
 # 👋 Hello World, I'm Anup Chaudhary
 
-🚀 Passionate about building cool things
+-🚀 Passionate about building cool things
  
- 🛠️ Simulations with **NVIDIA Omniverse**
-🌿 Solo Travel + Deep Thinking 💭
+ -🛠️ Simulations with **NVIDIA Omniverse**
+ 
+-🌿 Solo Travel + Deep Thinking 💭
 
 </> “Build deeply. Think freely.” 🌱
 
