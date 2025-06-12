@@ -1,4 +1,7 @@
 # 👋 Hello World, I'm Anup Chaudhary
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
+![Omniverse](https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 -🚀 Passionate about building cool things
  
